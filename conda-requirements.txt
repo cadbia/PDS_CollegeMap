@@ -1,1 +1,2 @@
 Cartopy==0.21.1
+geoviews == 1.9.5
